@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://github.com/user-attachments/assets/fc82d243-ffc9-4ec3-befd-4f01f7b9e6ff" alt="logo-repositorio" height="80" widht="80" /></h1> 
+<h1 align="center"> <img src="https://github.com/user-attachments/assets/a781e336-ab67-41d2-b076-81fdc9b424ba" alt="logo-repositorio" height="80" widht="80" /></h1> 
 <p align="center"><b>Conversor de Moeda - @alvezvini</b></p>
 <p align="justify">Este é um projeto simples de uma página web que realiza a conversão de moedas entre Real (BRL), Dólar (USD), Euro (EUR) e Libra Esterlina (GBP). 
 </p>
