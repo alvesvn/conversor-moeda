@@ -34,7 +34,7 @@ cd nome-do-repositorio
 ```bash
 open index.html
 ```
-<b> 4.Insira o valor que deseja converter e selecione a moeda de origem e a moeda de destino. </b>
+<b> 4. Insira o valor que deseja converter e selecione a moeda de origem e a moeda de destino. </b>
 
 ### Exemplo de Uso
 - Digite um valor em Real (BRL).
