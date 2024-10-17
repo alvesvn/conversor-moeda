@@ -56,5 +56,5 @@ open index.html
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para mais detalhes.
 
 ## Visit the web pages
-  ### 1. Web page
-  <a href="https://zingen-music.vercel.app/"><img src="https://github.com/user-attachments/assets/35ee6b5d-9774-487a-94c5-3a9bf3dd5251" alt="Pagina de web responsivo"/></a>
+  ### 1. Conversor de Moeda
+  <a href="https://conversor-moeda-tan.vercel.app/"><img src="https://github.com/user-attachments/assets/bbcd69cb-f8cc-4303-9f9c-21d22a622162" alt="Pagina de web responsivo"/></a>
